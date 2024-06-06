@@ -1,0 +1,1502 @@
+0000-00-00 00:00:00 teste adcionou Informatica no banco de categorias
+0000-00-00 00:00:00 teste cadastrou um novo produto no estoque (Teclado Rayzer I1123I12II) com 3 unidades
+0000-00-00 00:00:00 Gertrudes cadastrou um novo produto no estoque (1231) com 1312 unidades
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionário no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionário no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2020-03-24 12:29:54 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionário no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2020-03-24 12:29:54 Gertrudes entrou no sistema
+2020-03-24 17:50:59 Gertrudes deslogou do sistema
+2020-03-24 17:51:07 Gertrudes entrou no sistema
+2020-03-24 19:15:51 Gertrudes entrou no sistema
+2020-03-24 19:19:05 Gertrudes entrou no sistema
+2020-03-24 20:06:09 Gertrudes cadastrou um novo produto no estoque (12123) com 2321 unidades
+2020-03-24 20:06:46 Gertrudes entrou no sistema
+2020-03-24 20:06:54 Gertrudes cadastrou um novo produto no estoque (2222222222) com 222222222222222 unidades
+2020-03-24 20:07:12 Gertrudes entrou no sistema
+2020-03-24 20:08:04 Gertrudes cadastrou um novo produto no estoque () com  unidades
+2020-03-24 20:08:56 Gertrudes entrou no sistema
+2020-03-24 20:09:05 Gertrudes cadastrou um novo produto no estoque (teste produto) com  unidades
+2020-03-24 20:12:15 Gertrudes entrou no sistema
+2020-03-24 20:12:24 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:13:35 Gertrudes entrou no sistema
+2020-03-24 20:13:42 Gertrudes cadastrou um novo funcionário no sistema (1)  
+2020-03-24 20:14:34 Gertrudes entrou no sistema
+2020-03-24 20:15:05 Gertrudes cadastrou um novo funcionário no sistema (2)  
+2020-03-24 20:15:23 Gertrudes cadastrou um novo funcionário no sistema (2)  
+2020-03-24 20:15:28 Gertrudes entrou no sistema
+2020-03-24 20:15:35 Gertrudes cadastrou um novo funcionário no sistema (3)  
+2020-03-24 20:15:43 Gertrudes entrou no sistema
+2020-03-24 20:21:26 Gertrudes cadastrou um novo funcionário no sistema (4)  
+2020-03-24 20:21:30 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:23:23 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:23:28 Gertrudes entrou no sistema
+2020-03-24 20:23:32 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:23:37 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:23:55 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:25:26 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:25:35 Gertrudes cadastrou um novo funcionário no sistema (5)  
+2020-03-24 20:30:32 Gertrudes apagou 4 no sistema
+2020-03-24 20:30:34 Gertrudes apagou 3 no sistema
+2020-03-24 20:30:37 Gertrudes apagou  no sistema
+2020-03-24 20:30:39 Gertrudes apagou  no sistema
+2020-03-24 20:30:42 Gertrudes apagou 5 no sistema
+2020-03-24 20:30:44 Gertrudes apagou 2 no sistema
+2020-03-24 20:30:46 Gertrudes apagou 2 no sistema
+2020-03-24 20:30:48 Gertrudes apagou 1 no sistema
+2020-03-24 20:30:50 Gertrudes apagou  no sistema
+2020-03-24 20:34:40 Gertrudes cadastrou um novo funcionário no sistema (teste tesssssssss)  
+2020-03-24 20:35:10 Gertrudes cadastrou um novo funcionário no sistema (teste tesssssssss)  
+2020-03-24 20:35:22 Gertrudes cadastrou um novo funcionário no sistema (gvjkjhvbmn)  
+2020-03-24 20:35:58 Gertrudes cadastrou um novo funcionário no sistema (2222222)  
+2020-03-24 20:36:02 Gertrudes apagou 2222222 no sistema
+2020-03-24 20:37:49  cadastrou um novo produto no estoque (tesssssss tetstsbb,m,b,) com 1121 unidades
+2020-03-26 11:14:02 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionário no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2020-03-24 12:29:54 Gertrudes entrou no sistema
+2020-03-24 17:50:59 Gertrudes deslogou do sistema
+2020-03-24 17:51:07 Gertrudes entrou no sistema
+2020-03-24 19:15:51 Gertrudes entrou no sistema
+2020-03-24 19:19:05 Gertrudes entrou no sistema
+2020-03-24 20:06:09 Gertrudes cadastrou um novo produto no estoque (12123) com 2321 unidades
+2020-03-24 20:06:46 Gertrudes entrou no sistema
+2020-03-24 20:06:54 Gertrudes cadastrou um novo produto no estoque (2222222222) com 222222222222222 unidades
+2020-03-24 20:07:12 Gertrudes entrou no sistema
+2020-03-24 20:08:04 Gertrudes cadastrou um novo produto no estoque () com  unidades
+2020-03-24 20:08:56 Gertrudes entrou no sistema
+2020-03-24 20:09:05 Gertrudes cadastrou um novo produto no estoque (teste produto) com  unidades
+2020-03-24 20:12:15 Gertrudes entrou no sistema
+2020-03-24 20:12:24 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:13:35 Gertrudes entrou no sistema
+2020-03-24 20:13:42 Gertrudes cadastrou um novo funcionário no sistema (1)  
+2020-03-24 20:14:34 Gertrudes entrou no sistema
+2020-03-24 20:15:05 Gertrudes cadastrou um novo funcionário no sistema (2)  
+2020-03-24 20:15:23 Gertrudes cadastrou um novo funcionário no sistema (2)  
+2020-03-24 20:15:28 Gertrudes entrou no sistema
+2020-03-24 20:15:35 Gertrudes cadastrou um novo funcionário no sistema (3)  
+2020-03-24 20:15:43 Gertrudes entrou no sistema
+2020-03-24 20:21:26 Gertrudes cadastrou um novo funcionário no sistema (4)  
+2020-03-24 20:21:30 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:23:23 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:23:28 Gertrudes entrou no sistema
+2020-03-24 20:23:32 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:23:37 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:23:55 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:25:26 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:25:35 Gertrudes cadastrou um novo funcionário no sistema (5)  
+2020-03-24 20:30:32 Gertrudes apagou 4 no sistema
+2020-03-24 20:30:34 Gertrudes apagou 3 no sistema
+2020-03-24 20:30:37 Gertrudes apagou  no sistema
+2020-03-24 20:30:39 Gertrudes apagou  no sistema
+2020-03-24 20:30:42 Gertrudes apagou 5 no sistema
+2020-03-24 20:30:44 Gertrudes apagou 2 no sistema
+2020-03-24 20:30:46 Gertrudes apagou 2 no sistema
+2020-03-24 20:30:48 Gertrudes apagou 1 no sistema
+2020-03-24 20:30:50 Gertrudes apagou  no sistema
+2020-03-24 20:34:40 Gertrudes cadastrou um novo funcionário no sistema (teste tesssssssss)  
+2020-03-24 20:35:10 Gertrudes cadastrou um novo funcionário no sistema (teste tesssssssss)  
+2020-03-24 20:35:22 Gertrudes cadastrou um novo funcionário no sistema (gvjkjhvbmn)  
+2020-03-24 20:35:58 Gertrudes cadastrou um novo funcionário no sistema (2222222)  
+2020-03-24 20:36:02 Gertrudes apagou 2222222 no sistema
+2020-03-24 20:37:49  cadastrou um novo produto no estoque (tesssssss tetstsbb,m,b,) com 1121 unidades
+2020-03-26 11:14:02 Gertrudes entrou no sistema
+2020-03-26 12:20:28 Gertrudes deslogou do sistema
+2020-03-26 12:20:50 Gertrudes entrou no sistema
+2020-03-26 15:33:37 Gertrudes entrou no sistema
+2020-03-27 20:34:49 Gertrudes entrou no sistema
+2020-03-27 22:14:18 Gertrudes entrou no sistema
+2020-03-28 23:03:32 Gertrudes entrou no sistema
+2020-03-29 17:13:52 Gertrudes entrou no sistema
+2020-03-30 13:35:50 Gertrudes entrou no sistema
+2020-03-31 02:14:03 Gertrudes entrou no sistema
+2020-04-01 01:42:48 Gertrudes entrou no sistema
+2020-04-01 15:37:24 Gertrudes entrou no sistema
+2020-04-01 17:07:34 Gertrudes deslogou do sistema
+2020-04-01 17:07:39 Gertrudes entrou no sistema
+2020-04-03 02:18:15 Gertrudes entrou no sistema
+2020-04-03 13:07:12 Gertrudes entrou no sistema
+2020-04-03 20:41:52 Gertrudes entrou no sistema
+2020-04-04 18:48:41 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionário no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionário no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2020-03-24 12:29:54 Gertrudes entrou no sistema
+2020-03-24 17:50:59 Gertrudes deslogou do sistema
+2020-03-24 17:51:07 Gertrudes entrou no sistema
+2020-03-24 19:15:51 Gertrudes entrou no sistema
+2020-03-24 19:19:05 Gertrudes entrou no sistema
+2020-03-24 20:06:09 Gertrudes cadastrou um novo produto no estoque (12123) com 2321 unidades
+2020-03-24 20:06:46 Gertrudes entrou no sistema
+2020-03-24 20:06:54 Gertrudes cadastrou um novo produto no estoque (2222222222) com 222222222222222 unidades
+2020-03-24 20:07:12 Gertrudes entrou no sistema
+2020-03-24 20:08:04 Gertrudes cadastrou um novo produto no estoque () com  unidades
+2020-03-24 20:08:56 Gertrudes entrou no sistema
+2020-03-24 20:09:05 Gertrudes cadastrou um novo produto no estoque (teste produto) com  unidades
+2020-03-24 20:12:15 Gertrudes entrou no sistema
+2020-03-24 20:12:24 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:13:35 Gertrudes entrou no sistema
+2020-03-24 20:13:42 Gertrudes cadastrou um novo funcionário no sistema (1)  
+2020-03-24 20:14:34 Gertrudes entrou no sistema
+2020-03-24 20:15:05 Gertrudes cadastrou um novo funcionário no sistema (2)  
+2020-03-24 20:15:23 Gertrudes cadastrou um novo funcionário no sistema (2)  
+2020-03-24 20:15:28 Gertrudes entrou no sistema
+2020-03-24 20:15:35 Gertrudes cadastrou um novo funcionário no sistema (3)  
+2020-03-24 20:15:43 Gertrudes entrou no sistema
+2020-03-24 20:21:26 Gertrudes cadastrou um novo funcionário no sistema (4)  
+2020-03-24 20:21:30 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:23:23 Gertrudes cadastrou um novo funcionário no sistema ()  
+2020-03-24 20:23:28 Gertrudes entrou no sistema
+2020-03-24 20:23:32 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:23:37 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:23:55 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:25:26 Gertrudes cadastrou um novo produto no estoque (4) com  unidades
+2020-03-24 20:25:35 Gertrudes cadastrou um novo funcionário no sistema (5)  
+2020-03-24 20:30:32 Gertrudes apagou 4 no sistema
+2020-03-24 20:30:34 Gertrudes apagou 3 no sistema
+2020-03-24 20:30:37 Gertrudes apagou  no sistema
+2020-03-24 20:30:39 Gertrudes apagou  no sistema
+2020-03-24 20:30:42 Gertrudes apagou 5 no sistema
+2020-03-24 20:30:44 Gertrudes apagou 2 no sistema
+2020-03-24 20:30:46 Gertrudes apagou 2 no sistema
+2020-03-24 20:30:48 Gertrudes apagou 1 no sistema
+2020-03-24 20:30:50 Gertrudes apagou  no sistema
+2020-03-24 20:34:40 Gertrudes cadastrou um novo funcionário no sistema (teste tesssssssss)  
+2020-03-24 20:35:10 Gertrudes cadastrou um novo funcionário no sistema (teste tesssssssss)  
+2020-03-24 20:35:22 Gertrudes cadastrou um novo funcionário no sistema (gvjkjhvbmn)  
+2020-03-24 20:35:58 Gertrudes cadastrou um novo funcionário no sistema (2222222)  
+2020-03-24 20:36:02 Gertrudes apagou 2222222 no sistema
+2020-03-24 20:37:49  cadastrou um novo produto no estoque (tesssssss tetstsbb,m,b,) com 1121 unidades
+2020-03-26 11:14:02 Gertrudes entrou no sistema
+2020-03-26 12:20:28 Gertrudes deslogou do sistema
+2020-03-26 12:20:50 Gertrudes entrou no sistema
+2020-03-26 15:33:37 Gertrudes entrou no sistema
+2020-03-27 20:34:49 Gertrudes entrou no sistema
+2020-03-27 22:14:18 Gertrudes entrou no sistema
+2020-03-28 23:03:32 Gertrudes entrou no sistema
+2020-03-29 17:13:52 Gertrudes entrou no sistema
+2020-03-30 13:35:50 Gertrudes entrou no sistema
+2020-03-31 02:14:03 Gertrudes entrou no sistema
+2020-04-01 01:42:48 Gertrudes entrou no sistema
+2020-04-01 15:37:24 Gertrudes entrou no sistema
+2020-04-01 17:07:34 Gertrudes deslogou do sistema
+2020-04-01 17:07:39 Gertrudes entrou no sistema
+2020-04-03 02:18:15 Gertrudes entrou no sistema
+2020-04-03 13:07:12 Gertrudes entrou no sistema
+2020-04-03 20:41:52 Gertrudes entrou no sistema
+2020-04-04 18:48:41 Gertrudes entrou no sistema
+2020-04-04 21:20:38 Gertrudes apagou Gabriel pnc no sistema
+2020-04-04 21:20:42 Gertrudes apagou Felipe pereirasa no sistema
+2020-04-05 23:15:05 Gertrudes entrou no sistema
+2020-04-06 20:02:14 Gertrudes entrou no sistema
+2020-04-06 20:03:28 Gertrudes deslogou do sistema
+2020-04-07 13:54:20 Gertrudes entrou no sistema
+2020-04-07 18:07:26 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-07-28 16:52:51 Gertrudes entrou no sistema
+2022-07-28 16:53:25 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-07-28 16:52:51 Gertrudes entrou no sistema
+2022-07-28 16:53:25 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-07-28 16:52:51 Gertrudes entrou no sistema
+2022-07-28 16:53:25 Gertrudes entrou no sistema
+2022-07-28 16:57:11 Gertrudes apagou Gabriel pnc no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-07-28 16:52:51 Gertrudes entrou no sistema
+2022-07-28 16:53:25 Gertrudes entrou no sistema
+2022-07-28 16:57:11 Gertrudes apagou Gabriel pnc no sistema
+2022-07-28 16:58:37 Gertrudes deslogou do sistema
+2022-07-28 16:58:43 Gertrudes entrou no sistema
+2022-07-28 16:58:59 Gertrudes entrou no sistema
+2022-08-02 22:17:48 Gertrudes entrou no sistema
+2022-08-02 22:19:24 Gertrudes deslogou do sistema
+2022-08-02 22:19:30 Vinicius entrou no sistema
+2022-08-02 22:19:38 Vinicius entrou no sistema
+2022-08-02 22:19:47 Gertrudes entrou no sistema
+2022-08-02 22:20:28 Gertrudes deslogou do sistema
+2022-08-02 22:20:32 Vinicius entrou no sistema
+2022-08-02 22:20:38 Vinicius entrou no sistema
+2022-08-02 22:20:43 Vinicius entrou no sistema
+2022-08-02 22:20:52 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-07-28 16:52:51 Gertrudes entrou no sistema
+2022-07-28 16:53:25 Gertrudes entrou no sistema
+2022-07-28 16:57:11 Gertrudes apagou Gabriel pnc no sistema
+2022-07-28 16:58:37 Gertrudes deslogou do sistema
+2022-07-28 16:58:43 Gertrudes entrou no sistema
+2022-07-28 16:58:59 Gertrudes entrou no sistema
+2022-08-02 22:17:48 Gertrudes entrou no sistema
+2022-08-02 22:19:24 Gertrudes deslogou do sistema
+2022-08-02 22:19:30 Vinicius entrou no sistema
+2022-08-02 22:19:38 Vinicius entrou no sistema
+2022-08-02 22:19:47 Gertrudes entrou no sistema
+2022-08-02 22:20:28 Gertrudes deslogou do sistema
+2022-08-02 22:20:32 Vinicius entrou no sistema
+2022-08-02 22:20:38 Vinicius entrou no sistema
+2022-08-02 22:20:43 Vinicius entrou no sistema
+2022-08-02 22:20:52 Gertrudes entrou no sistema
+2022-08-02 22:23:58 Gertrudes deslogou do sistema
+2022-08-02 22:24:04 Gertrudes entrou no sistema
+2022-08-02 22:28:46 Gertrudes deslogou do sistema
+2022-08-02 22:34:02 Gertrudes entrou no sistema
+2022-08-03 01:45:01 Gertrudes deslogou do sistema
+2022-08-03 02:04:09 Gertrudes entrou no sistema
+2022-08-03 02:04:18 Gertrudes entrou no sistema
+2022-08-03 02:06:45 Gertrudes deslogou do sistema
+2022-08-03 14:20:17 Gertrudes entrou no sistema
+2022-08-03 14:22:39 Gertrudes deslogou do sistema
+2022-08-03 14:23:45 Gertrudes entrou no sistema
+2022-08-03 14:23:55 Gertrudes deslogou do sistema
+2022-08-03 14:24:02 Vinicius entrou no sistema
+2022-08-03 14:24:26 Gertrudes entrou no sistema
+2022-08-03 14:36:06 Gertrudes deslogou do sistema
+2022-08-03 14:36:37 Vinicius entrou no sistema
+2022-08-03 14:36:48 Gertrudes entrou no sistema
+2022-08-03 14:37:10 Gertrudes deslogou do sistema
+2022-08-03 14:40:38 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-07-28 16:52:51 Gertrudes entrou no sistema
+2022-07-28 16:53:25 Gertrudes entrou no sistema
+2022-07-28 16:57:11 Gertrudes apagou Gabriel pnc no sistema
+2022-07-28 16:58:37 Gertrudes deslogou do sistema
+2022-07-28 16:58:43 Gertrudes entrou no sistema
+2022-07-28 16:58:59 Gertrudes entrou no sistema
+2022-08-02 22:17:48 Gertrudes entrou no sistema
+2022-08-02 22:19:24 Gertrudes deslogou do sistema
+2022-08-02 22:19:30 Vinicius entrou no sistema
+2022-08-02 22:19:38 Vinicius entrou no sistema
+2022-08-02 22:19:47 Gertrudes entrou no sistema
+2022-08-02 22:20:28 Gertrudes deslogou do sistema
+2022-08-02 22:20:32 Vinicius entrou no sistema
+2022-08-02 22:20:38 Vinicius entrou no sistema
+2022-08-02 22:20:43 Vinicius entrou no sistema
+2022-08-02 22:20:52 Gertrudes entrou no sistema
+2022-08-02 22:23:58 Gertrudes deslogou do sistema
+2022-08-02 22:24:04 Gertrudes entrou no sistema
+2022-08-02 22:28:46 Gertrudes deslogou do sistema
+2022-08-02 22:34:02 Gertrudes entrou no sistema
+2022-08-03 01:45:01 Gertrudes deslogou do sistema
+2022-08-03 02:04:09 Gertrudes entrou no sistema
+2022-08-03 02:04:18 Gertrudes entrou no sistema
+2022-08-03 02:06:45 Gertrudes deslogou do sistema
+2022-08-03 14:20:17 Gertrudes entrou no sistema
+2022-08-03 14:22:39 Gertrudes deslogou do sistema
+2022-08-03 14:23:45 Gertrudes entrou no sistema
+2022-08-03 14:23:55 Gertrudes deslogou do sistema
+2022-08-03 14:24:02 Vinicius entrou no sistema
+2022-08-03 14:24:26 Gertrudes entrou no sistema
+2022-08-03 14:36:06 Gertrudes deslogou do sistema
+2022-08-03 14:36:37 Vinicius entrou no sistema
+2022-08-03 14:36:48 Gertrudes entrou no sistema
+2022-08-03 14:37:10 Gertrudes deslogou do sistema
+2022-08-03 14:40:38 Gertrudes entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 15:50:24 Gertrudes cadastrou um novo produto no estoque (teste1) com 12 unidades
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 18:18:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+2022-08-08 17:44:17 Vini tester deslogou do sistema
+2022-08-08 17:44:24 teste1 entrou no sistema
+2022-08-08 17:52:40 teste1 deslogou do sistema
+2022-08-08 17:52:46 Vini tester entrou no sistema
+2022-08-08 17:53:23 Vini tester apagou Haneil no sistema
+2022-08-08 18:06:35  cadastrou um novo produto no estoque (gff) com 33 unidades
+2022-08-08 18:07:25 Vini tester apagou gff no sistema
+2022-08-08 21:58:30 Stephanie entrou no sistema
+2022-08-08 22:10:32 Vinicius entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+2022-08-08 17:44:17 Vini tester deslogou do sistema
+2022-08-08 17:44:24 teste1 entrou no sistema
+2022-08-08 17:52:40 teste1 deslogou do sistema
+2022-08-08 17:52:46 Vini tester entrou no sistema
+2022-08-08 17:53:23 Vini tester apagou Haneil no sistema
+2022-08-08 18:06:35  cadastrou um novo produto no estoque (gff) com 33 unidades
+2022-08-08 18:07:25 Vini tester apagou gff no sistema
+2022-08-08 21:58:30 Stephanie entrou no sistema
+2022-08-08 22:10:32 Vinicius entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+2022-08-08 17:44:17 Vini tester deslogou do sistema
+2022-08-08 17:44:24 teste1 entrou no sistema
+2022-08-08 17:52:40 teste1 deslogou do sistema
+2022-08-08 17:52:46 Vini tester entrou no sistema
+2022-08-08 17:53:23 Vini tester apagou Haneil no sistema
+2022-08-08 18:06:35  cadastrou um novo produto no estoque (gff) com 33 unidades
+2022-08-08 18:07:25 Vini tester apagou gff no sistema
+2022-08-08 21:58:30 Stephanie entrou no sistema
+2022-08-08 22:10:32 Vinicius entrou no sistema
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+2022-08-08 17:44:17 Vini tester deslogou do sistema
+2022-08-08 17:44:24 teste1 entrou no sistema
+2022-08-08 17:52:40 teste1 deslogou do sistema
+2022-08-08 17:52:46 Vini tester entrou no sistema
+2022-08-08 17:53:23 Vini tester apagou Haneil no sistema
+2022-08-08 18:06:35  cadastrou um novo produto no estoque (gff) com 33 unidades
+2022-08-08 18:07:25 Vini tester apagou gff no sistema
+2022-08-08 21:58:30 Stephanie entrou no sistema
+2022-08-08 22:10:32 Vinicius entrou no sistema
+2022-08-08 22:37:52 Vinicius deslogou do sistema
+2022-08-08 22:37:57 Vinicius entrou no sistema
+2022-08-08 22:54:19 Vinicius deslogou do sistema
+2022-08-08 22:56:48 Vinicius entrou no sistema
+2022-08-08 22:56:56 Vinicius deslogou do sistema
+2022-08-08 23:01:16 Vinicius entrou no sistema
+2022-08-08 23:05:01 Vinicius entrou no sistema
+2022-08-08 23:23:58 Vinicius deslogou do sistema
+2022-08-09 00:22:50 Vinicius entrou no sistema
+2022-08-09 00:24:22 Vinicius deslogou do sistema
+2022-08-09 00:39:26 Vinicius entrou no sistema
+2022-08-09 00:44:41 Vinicius cadastrou um novo funcionário no sistema (Junior)  
+2022-08-09 00:44:53 Vinicius apagou Stephanie no sistema
+2022-08-09 00:46:30 Vinicius deslogou do sistema
+2022-08-09 00:46:35 Vinicius entrou no sistema
+2022-08-09 00:47:36 Vinicius deslogou do sistema
+2022-08-09 00:47:44 Junior entrou no sistema
+2022-08-09 00:47:59 Junior entrou no sistema
+2022-08-09 00:48:05 Junior entrou no sistema
+2022-08-09 00:48:39 Vinicius entrou no sistema
+2022-08-09 00:50:50 Vinicius cadastrou um novo funcionário no sistema (Stephanie)  
+2022-08-09 00:50:57 Vinicius deslogou do sistema
+2022-08-09 00:51:04 Stephanie entrou no sistema
+2022-08-09 00:52:05 Stephanie cadastrou um novo funcionário no sistema (Teste)  
+2022-08-09 00:52:16 Stephanie deslogou do sistema
+2022-08-09 00:52:25 Teste entrou no sistema
+2022-08-09 00:53:29 Junior entrou no sistema
+2022-08-09 00:54:05 Junior deslogou do sistema
+2022-08-09 00:54:13 Teste entrou no sistema
+2022-08-09 00:54:30 Teste deslogou do sistema
+2022-08-09 00:54:36 Vinicius entrou no sistema
+2022-08-09 00:54:48 Vinicius apagou Junior no sistema
+2022-08-09 01:20:43 Vinicius deslogou do sistema
+2022-08-09 01:21:14 Vinicius entrou no sistema
+2022-08-09 01:34:24 Vinicius deslogou do sistema
+2022-08-09 14:34:52 Vinicius entrou no sistema
+0000-00-00 00:00:00  adcionou  no banco de categorias
+0000-00-00 00:00:00  adcionou Teclado no banco de categorias
+2020-03-16 16:03:48 Gertrudes entrou no sistema
+2020-03-16 16:03:50 Gertrudes deslogou do sistema
+2020-03-16 16:07:33 Gertrudes entrou no sistema
+2020-03-16 16:07:42 Gertrudes deslogou do sistema
+2020-03-17 12:19:16 Gertrudes entrou no sistema
+2020-03-17 12:25:55 Gertrudes cadastrou um novo produto no estoque (43243342) com 23234 unidades
+2020-03-17 12:26:28 Gertrudes cadastrou um novo produto no estoque (434234) com 3234432 unidades
+2020-03-18 14:33:23 Gertrudes entrou no sistema
+2020-03-18 15:59:20 Gertrudes apagou S no sistema
+2020-03-18 16:00:12 Gertrudes apagou S no sistema
+2020-03-18 16:12:46 Gertrudes apagou S no sistema
+2020-03-18 16:15:31 Gertrudes apagou S no sistema
+2020-03-18 16:16:53 Gertrudes apagou cobaiaaa no sistema
+2020-03-19 00:55:48 Gertrudes cadastrou um novo produto no estoque (produtoteste) com 2112 unidades
+2020-03-19 00:55:55 Gertrudes apagou produtoteste no sistema
+2020-03-19 01:14:47 Gertrudes cadastrou um novo produto no estoque (testeproduto1) com 1232421 unidades
+2020-03-19 01:15:15 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (123teste)  
+2020-03-22 02:52:37 Gertrudes entrou no sistema
+2020-03-22 02:53:23 Gertrudes apagou 123teste no sistema
+2020-03-22 02:58:29 Gertrudes deslogou do sistema
+2020-03-22 03:01:31 Gertrudes entrou no sistema
+2020-03-22 03:02:06 Gertrudes deslogou do sistema
+2020-03-22 18:08:48 Gertrudes entrou no sistema
+2020-03-23 21:54:13 Gertrudes cadastrou um novo funcionÃ¡rio no sistema (Gabriel pnc)  
+2020-03-23 21:54:21 Gertrudes entrou no sistema
+2020-03-23 22:54:58 Gertrudes apagou testeproduto146554645645111111 no sistema
+2022-08-03 17:05:27 Gertrudes deslogou do sistema
+2022-08-03 17:05:34 Vini tester entrou no sistema
+2022-08-04 14:56:34 Vini tester deslogou do sistema
+2022-08-04 16:38:36 Vini tester entrou no sistema
+2022-08-04 16:39:07 Vini tester deslogou do sistema
+2022-08-04 16:39:13 teste1 entrou no sistema
+2022-08-04 16:39:30 teste1 deslogou do sistema
+2022-08-04 16:40:10 Vini tester entrou no sistema
+2022-08-04 16:42:55 Vini tester deslogou do sistema
+2022-08-04 16:43:46 Vini tester entrou no sistema
+2022-08-04 16:46:55 Vini tester deslogou do sistema
+2022-08-04 17:05:11 Vini tester entrou no sistema
+2022-08-04 17:42:43 Vini tester deslogou do sistema
+2022-08-04 17:46:26 Vini tester entrou no sistema
+2022-08-04 17:50:35 Vini tester deslogou do sistema
+2022-08-04 17:56:53  deslogou do sistema
+2022-08-04 20:27:56 Vini tester entrou no sistema
+2022-08-04 20:30:06 Vini tester apagou Gabriel pnc no sistema
+2022-08-04 21:34:42  cadastrou um novo produto no estoque (Carro) com 3 unidades
+2022-08-04 21:35:07  cadastrou um novo produto no estoque (boneco) com 3 unidades
+2022-08-04 22:03:04 Vini tester entrou no sistema
+2022-08-04 22:04:53 Vini tester deslogou do sistema
+2022-08-04 22:05:01 teste1 entrou no sistema
+2022-08-04 22:52:08 teste1 deslogou do sistema
+2022-08-04 22:52:23 Vini tester entrou no sistema
+2022-08-04 22:53:01 Vini tester deslogou do sistema
+2022-08-04 22:53:12 teste1 entrou no sistema
+2022-08-04 23:53:10 teste1 deslogou do sistema
+2022-08-04 23:53:30 teste1 entrou no sistema
+2022-08-04 23:53:52 teste1 deslogou do sistema
+2022-08-04 23:54:02 Vini tester entrou no sistema
+2022-08-07 12:58:44 Vini tester deslogou do sistema
+2022-08-07 12:59:28 Vini tester entrou no sistema
+2022-08-07 13:08:04 Vini tester deslogou do sistema
+2022-08-07 13:08:11 Vini tester entrou no sistema
+2022-08-07 13:08:12 Vini tester deslogou do sistema
+2022-08-07 13:09:01 Vini tester entrou no sistema
+2022-08-07 21:17:23 Vini tester deslogou do sistema
+2022-08-07 21:17:52 Vini tester entrou no sistema
+2022-08-08 17:44:17 Vini tester deslogou do sistema
+2022-08-08 17:44:24 teste1 entrou no sistema
+2022-08-08 17:52:40 teste1 deslogou do sistema
+2022-08-08 17:52:46 Vini tester entrou no sistema
+2022-08-08 17:53:23 Vini tester apagou Haneil no sistema
+2022-08-08 18:06:35  cadastrou um novo produto no estoque (gff) com 33 unidades
+2022-08-08 18:07:25 Vini tester apagou gff no sistema
+2022-08-08 21:58:30 Stephanie entrou no sistema
+2022-08-08 22:10:32 Vinicius entrou no sistema
+2022-08-08 22:37:52 Vinicius deslogou do sistema
+2022-08-08 22:37:57 Vinicius entrou no sistema
+2022-08-08 22:54:19 Vinicius deslogou do sistema
+2022-08-08 22:56:48 Vinicius entrou no sistema
+2022-08-08 22:56:56 Vinicius deslogou do sistema
+2022-08-08 23:01:16 Vinicius entrou no sistema
+2022-08-08 23:05:01 Vinicius entrou no sistema
+2022-08-08 23:23:58 Vinicius deslogou do sistema
+2022-08-09 00:22:50 Vinicius entrou no sistema
+2022-08-09 00:24:22 Vinicius deslogou do sistema
+2022-08-09 00:39:26 Vinicius entrou no sistema
+2022-08-09 00:44:41 Vinicius cadastrou um novo funcionário no sistema (Junior)  
+2022-08-09 00:44:53 Vinicius apagou Stephanie no sistema
+2022-08-09 00:46:30 Vinicius deslogou do sistema
+2022-08-09 00:46:35 Vinicius entrou no sistema
+2022-08-09 00:47:36 Vinicius deslogou do sistema
+2022-08-09 00:47:44 Junior entrou no sistema
+2022-08-09 00:47:59 Junior entrou no sistema
+2022-08-09 00:48:05 Junior entrou no sistema
+2022-08-09 00:48:39 Vinicius entrou no sistema
+2022-08-09 00:50:50 Vinicius cadastrou um novo funcionário no sistema (Stephanie)  
+2022-08-09 00:50:57 Vinicius deslogou do sistema
+2022-08-09 00:51:04 Stephanie entrou no sistema
+2022-08-09 00:52:05 Stephanie cadastrou um novo funcionário no sistema (Teste)  
+2022-08-09 00:52:16 Stephanie deslogou do sistema
+2022-08-09 00:52:25 Teste entrou no sistema
+2022-08-09 00:53:29 Junior entrou no sistema
+2022-08-09 00:54:05 Junior deslogou do sistema
+2022-08-09 00:54:13 Teste entrou no sistema
+2022-08-09 00:54:30 Teste deslogou do sistema
+2022-08-09 00:54:36 Vinicius entrou no sistema
+2022-08-09 00:54:48 Vinicius apagou Junior no sistema
+2022-08-09 01:20:43 Vinicius deslogou do sistema
+2022-08-09 01:21:14 Vinicius entrou no sistema
+2022-08-09 01:34:24 Vinicius deslogou do sistema
+2022-08-09 14:34:52 Vinicius entrou no sistema
+2022-08-09 14:37:05 Vinicius deslogou do sistema
+2022-08-09 15:47:50 Vinicius entrou no sistema
+2022-08-09 16:44:52 Vinicius entrou no sistema
+2022-08-09 16:45:16 Vinicius deslogou do sistema
+2022-08-09 16:47:44 Vinicius entrou no sistema
+2022-08-09 16:57:55 Vinicius deslogou do sistema
+2022-08-09 17:13:21 Vinicius entrou no sistema
+2022-08-09 17:13:25 Vinicius deslogou do sistema
+2022-08-09 17:13:34 Vinicius entrou no sistema
+2022-08-09 17:15:59 Vinicius deslogou do sistema
+2022-08-09 17:24:05 Vinicius entrou no sistema
+2022-08-09 17:29:46 Vinicius cadastrou um novo funcionário no sistema ()  
+2022-08-09 17:29:50 Vinicius apagou  no sistema
+2022-08-09 17:30:19 Vinicius cadastrou um novo funcionário no sistema ()  
+2022-08-09 17:30:49 Vinicius deslogou do sistema
+2022-08-09 17:30:55  entrou no sistema
+2022-08-09 17:31:03  entrou no sistema
+2022-08-09 17:31:13 Vinicius entrou no sistema
